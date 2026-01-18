@@ -1,4 +1,4 @@
 from ultralytics import YOLO
 
 model = YOLO("yolov8n.pt")
-model("animals.png", show=True, save=True)
+model("validate/fruits.jpg", show=True, save=True)
