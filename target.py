@@ -3,7 +3,7 @@ from ultralytics import YOLO
 # Load YOLO model
 model = YOLO("yolov8n.pt")
 
-# Image to analyze
+
 image_path = "validate/fruits.png"   # change to your image
 
 # Object you want to search for
