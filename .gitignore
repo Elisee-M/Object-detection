@@ -1,0 +1,66 @@
+# 🧪 Virtual Environment
+venv/
+env/
+ENV/
+
+# 🐍 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔧 Python build / packaging
+build/
+dist/
+*.egg-info/
+
+# 📦 Pip / installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 🧠 IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🪟 OS files
+.DS_Store
+Thumbs.db
+
+# 🔐 Environment variables
+.env
+
+# 📊 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🧾 Logs
+*.log
+
+# 📸 Images / datasets (optional — remove if you WANT them tracked)
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# 🤖 YOLO outputs
+runs/
+outputs/
+predict/
+results/
+
+# 🧠 Model weights (optional — can be large)
+*.pt
+*.onnx
+
+# 📥 Downloaded datasets
+datasets/
+data/
+
+# 🧰 Temporary files
+*.tmp
+*.temp
+
+# 🗂️ Misc
+*.bak
+*.old
